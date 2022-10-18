@@ -1,4 +1,4 @@
-![Software Engineer](https://media-exp1.licdn.com/dms/image/C4D16AQGtxif0cp2mCA/profile-displaybackgroundimage-shrink_350_1400/0/1655500130101?e=1665014400&v=beta&t=nnKZ7aGhPyPqH-ftutnqzZFTDMq4I1GLtNUq3jzOPv8)
+https://media-exp1.licdn.com/dms/image/C4D16AQGtxif0cp2mCA/profile-displaybackgroundimage-shrink_350_1400/0/1655500130101?e=1671667200&v=beta&t=ZC9cVweJ6Tzq55Asph0Yv3ejxr3wTTmT2hIEpodg-zQ
 
 ### Hi there 👋, I'm Emran
 #### Software Engineer
