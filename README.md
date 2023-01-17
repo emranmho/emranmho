@@ -7,9 +7,9 @@
 
 I have completed my studies for a BSc in Computer Science Engineering at American International University-Bangladesh (AIUB). During my studies, I mainly focus on software development and software quality testing.
 
-Skills: c#/ asp.net/ java/ Softwate Testing
+Skills: c++/ c#/ asp.net/ java
 
-- 🌱 I’m currently learning **angular js**
+- 🌱 I’m currently learning **Microservice and SinglR**
 
 - 💬 Ask me about **Dot net core, dot net**
 
