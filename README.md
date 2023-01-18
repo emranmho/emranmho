@@ -1,19 +1,29 @@
-<img src='https://media-exp1.licdn.com/dms/image/C4D16AQGtxif0cp2mCA/profile-displaybackgroundimage-shrink_350_1400/0/1655500130101?e=1671667200&v=beta&t=ZC9cVweJ6Tzq55Asph0Yv3ejxr3wTTmT2hIEpodg-zQ'/>
+  
+  <div align="center">
+<img src="https://media.licdn.com/dms/image/C4D16AQGtxif0cp2mCA/profile-displaybackgroundimage-shrink_350_1400/0/1655500130101?e=1679529600&v=beta&t=oElSdZxyBTSSqz98RsXahWp-J8b0eZGgPz2lY3nPFVY" align="center" style="width: 100%" />
+</div>  
+  
 
 
-### Hi there 👋, I'm Emran
-#### Software Engineer
 
+### <div align="center">Hi there 👋, I'm Emran
 
-I have completed my studies for a BSc in Computer Science Engineering at American International University-Bangladesh (AIUB). During my studies, I mainly focus on software development and software quality testing.
+I am a software engineer currently working at Apurba Technologies Ltd. I have been with the company since 2022 and am excited to be a part of the team and contributing to the growth of the company. I am passionate about the field of software engineering and am always looking for new challenges and opportunities to improve my skills and knowledge.</div>  
+  
 
-Skills: c++/ c#/ asp.net/ java
+- 🔭 I’m currently working on Screen Reader Application  
+  
 
-- 🌱 I’m currently learning **Microservice and SinglR**
+- 🌱 I’m currently learning  [SignalR](https://learn.microsoft.com/en-us/aspnet/core/tutorials/signalr?view=aspnetcore-7.0&tabs=visual-studio) & [Microservice](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/)  
+  
 
-- 💬 Ask me about **Dot net core, dot net**
+- 💬 Ask me about anything related to [asp.net](https://learn.microsoft.com/en-us/aspnet/core/tutorials/signalr?view=aspnetcore-7.0&tabs=visual-studio) stack and related technologies  
+  
 
-- 🔭 I’m currently working on asp.net web api 
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+<br/>  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emran2300)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emranmho/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/emranmho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emran_mh0/)  
@@ -40,7 +50,6 @@ Skills: c++/ c#/ asp.net/ java
 
 
 
-### About me  
 ### <div align="center">Hi there 👋, I'm Emran
 
 I am a software engineer currently working at Apurba Technologies Ltd. I have been with the company since 2022 and am excited to be a part of the team and contributing to the growth of the company. I am passionate about the field of software engineering and am always looking for new challenges and opportunities to improve my skills and knowledge.</div>  
