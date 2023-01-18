@@ -80,8 +80,6 @@ I am a software engineer currently working at Apurba Technologies Ltd. I have be
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -101,22 +99,9 @@ I am a software engineer currently working at Apurba Technologies Ltd. I have be
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=emran2300&&style=flat-square" align="center" />
-</div>  
-  
-
-
 ![GitHub metrics](https://metrics.lecoq.io/emran2300)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=emran2300)  
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-  
- 
-
 
 
 <br/>  
