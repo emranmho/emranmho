@@ -94,6 +94,14 @@ I am a software engineer currently working at Apurba Technologies Ltd. I have be
 
 <br/>  
 
+<div class="row">
+<div class="col-6">
+hello
+</div>
+ <div class="col-6">
+hi
+</div>
+</div>
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=emran2300&show_icons=true&count_private=true&hide_border=true"  />
 
