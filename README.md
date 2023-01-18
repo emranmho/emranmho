@@ -97,6 +97,9 @@ I am a software engineer currently working at Apurba Technologies Ltd. I have be
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=emran2300&show_icons=true&count_private=true&hide_border=true"  />
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+
 <br/>  
 
 ![GitHub metrics](https://metrics.lecoq.io/emran2300)  
@@ -106,3 +109,5 @@ I am a software engineer currently working at Apurba Technologies Ltd. I have be
 
 <br/>  
 
+
+  
