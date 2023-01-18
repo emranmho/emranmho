@@ -29,4 +29,4 @@ Skills: c++/ c#/ asp.net/ java
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=emran2300)  
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
