@@ -97,7 +97,7 @@ I am a software engineer currently working at Apurba Technologies Ltd. I have be
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emran2300&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=emran2300&show_icons=true&count_private=true&hide_border=true"  />
 
 <br/>  
 
