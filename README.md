@@ -5,8 +5,7 @@
   
 
 
-
-### <div align="center">Hi there 👋, I'm Emran
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammodullah+Emran)](https://git.io/typing-svg)
 
 I am a software engineer currently working at Apurba Technologies Ltd. I have been with the company since 2022 and am excited to be a part of the team and contributing to the growth of the company. I am passionate about the field of software engineering and am always looking for new challenges and opportunities to improve my skills and knowledge.</div>  
   
