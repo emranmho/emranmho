@@ -1,6 +1,6 @@
   
   <div align="center">
-<img src="https://media.licdn.com/dms/image/C4D16AQGtxif0cp2mCA/profile-displaybackgroundimage-shrink_350_1400/0/1655500130101?e=1679529600&v=beta&t=oElSdZxyBTSSqz98RsXahWp-J8b0eZGgPz2lY3nPFVY" align="center" style="width: 100%" />
+<img src="https://prnt.sc/i9PzaYCu3-CQ" align="center" style="width: 100%" />
 </div>  
   
 
